@@ -10,6 +10,8 @@ Welcome to TcWg_info_indus_tutorial's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+trop mignon
+
 .. figure:: resources/img/chat.jpg
    :align: center
    :width: 80%
