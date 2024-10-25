@@ -10,7 +10,7 @@ Welcome to TcWg_info_indus_tutorial's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-toto2
+.. image:: /home/insa/Téléchargements/chat.jpg
 
 Indices and tables
 ==================
