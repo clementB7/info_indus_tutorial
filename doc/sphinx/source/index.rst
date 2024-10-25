@@ -10,7 +10,9 @@ Welcome to TcWg_info_indus_tutorial's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: /home/insa/Téléchargements/chat.jpg
+.. figure:: resources/img/chat.jpg
+   :align: center
+   :width: 80%
 
 Indices and tables
 ==================
